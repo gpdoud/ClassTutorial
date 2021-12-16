@@ -8,6 +8,8 @@ namespace ClassTutorial
 {
 	class MathLib
 	{
+		//public MathLib(int i) { }
+
 		public int Mod(int a, int b)
 		{
 			return a - (a / b * b);
